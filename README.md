@@ -1,2 +1,4 @@
 # Graph-energy
-Codigo usados para analizar energia de grafos y distintas conjeturas
+
+
+Code used for computing graph energy and some more graph statistics. Useful for making conjectures
